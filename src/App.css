@@ -1,0 +1,13 @@
+.App-header {
+    background-color: #282c34;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: flex-start; */
+    color: white;
+  }
+  .title{
+    margin: auto; 
+    display: block;
+    font-size: 4.5rem;
+  }
+  
